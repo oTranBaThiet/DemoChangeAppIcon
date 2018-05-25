@@ -41,5 +41,91 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>alternate_icon_002</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Hay Day</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Hayday60x60</string>
+				</array>
+			</dict>
+			<key>alternate_icon_003</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Class of clan</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Classofclan60x60</string>
+				</array>
+			</dict>
+			<key>alternate_icon_004</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Grap</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>grab60x60</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon</string>
+			</array>
+		</dict>
+		<key>DefaultIconTitle</key>
+		<string>Youtube</string>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>alternate_icon_002</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Hay Day</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Hayday76x76</string>
+				</array>
+			</dict>
+			<key>alternate_icon_003</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Class of clan</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>Classofclan76x76</string>
+				</array>
+			</dict>
+			<key>alternate_icon_004</key>
+			<dict>
+				<key>IconTitle</key>
+				<string>Grap</string>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>grab76x76</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+		<key>DefaultIconTitle</key>
+		<string>Youtube</string>
+	</dict>
 </dict>
 </plist>
